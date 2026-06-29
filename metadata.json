@@ -1,0 +1,6 @@
+{
+  "name": "SentinelAI Cyber Intelligence",
+  "description": "Next-generation sovereign-grade cyber intelligence console to intercept fraud, analyze digital arrest scams, detect counterfeit notes, map crime ecosystems, and provide real-time protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
